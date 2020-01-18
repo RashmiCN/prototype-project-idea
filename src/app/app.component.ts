@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'prototype-startup-idea';
+  appId = 'theme1'; // default
+  switchTheme(appId: string) {
+    this.appId = appId; // changing theme based on choice
+  }
 }

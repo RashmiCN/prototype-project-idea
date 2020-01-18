@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Login Screen
 
-![Login Screen]('./src/assets/Login Proto.PNG')
+![LoginScreen]('./src/assets/Login Proto.PNG')
